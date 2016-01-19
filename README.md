@@ -2,7 +2,7 @@
 
 Setup a fiori tickets database. 
 
-* Create ticket in `Issues` table.
+* Create ticket in `Issues` tab.
 * Add short desctipion witk key work for searching.
 * Add root cause and solution.
 
