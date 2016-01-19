@@ -1,3 +1,3 @@
 # tickets
 
-Setup a fiori tickets solution documentation.
+Setup a fiori tickets database.
